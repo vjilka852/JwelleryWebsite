@@ -1,0 +1,2 @@
+# JwelleryWebsite
+React Vite Project
